@@ -1,0 +1,7 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="machine-learning-cli" audience="cli" href="/docs/machine-learning-cli-plugin/machine-learning-cli.html" path="machine-learning-cli-plugin"}
+IBM Watson Machine Learning CLI reference
+
+    machine-learning-cli.md
