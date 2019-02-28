@@ -43,7 +43,8 @@ Example: -->
 
 <p>&nbsp;</p>
 
-In May 2018, the {{site.data.keyword.Bluemix_notm}} CLI commands changed from `bluemix` and `bx` to `ibmcloud`. So, for example, the command `bx ml help` became `ibmcloud ml help`.  You can still use the `bluemix` and `bx` CLI commands until they are removed in the future.  If you have scripts that use the `bluemix` and `bx` commands, update those scripts to use `ibmcloud` (or consider other strategies, such as using command aliases.)  {: tip}
+In May 2018, the {{site.data.keyword.Bluemix_notm}} CLI commands changed from `bluemix` and `bx` to `ibmcloud`. So, for example, the command `bx ml help` became `ibmcloud ml help`.  You can still use the `bluemix` and `bx` CLI commands until they are removed in the future.  If you have scripts that use the `bluemix` and `bx` commands, update those scripts to use `ibmcloud` (or consider other strategies, such as using command aliases.)
+{: tip}
 
 <p>&nbsp;</p>
 
