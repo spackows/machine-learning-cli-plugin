@@ -1,8 +1,8 @@
 ---
  
 copyright:
-  years: 2015, 2018
-lastupdated: "2018-10-04"
+  years: 2015, 2019
+lastupdated: "2019-02-28"
 
 ---
 
@@ -18,7 +18,7 @@ lastupdated: "2018-10-04"
 <!-- Name your file `offering-cli-name.md`, for example, `auto-scaling-cli.md` is the file name of the Auto-Scaling CLI reference topic. Delete content examples and coding that you are not using for your offering. -->
 
 
-# {{site.data.keyword.pm_full}} CLI
+# {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.pm_short}} CLI
 <!-- Insert your CLI name into topic title above. -->
 {: #machine-learning-cli}
 <!-- Provide an appropriate ID above -->
@@ -56,7 +56,7 @@ If there are a great many commands, to make it easy to retrieve specific command
 Examples: -->
 
 
-## {{site.data.keyword.pm_full}} CLI commands index
+## {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.pm_short}} CLI commands index
 {: #commands_index}
 
 You can specify one of the following commands:
