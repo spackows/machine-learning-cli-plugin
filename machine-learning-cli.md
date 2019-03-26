@@ -361,6 +361,7 @@ ibmcloud ml list deployments <model-id>
 ibmcloud ml list libraries
 ibmcloud ml list runtimes
 ibmcloud ml list experiment-runs <experiment-id>
+ibmcloud ml list frameworks
 ```
 
 where the object identifier (such as &lt;model-id>) specifies an object associated with the objects to list.
