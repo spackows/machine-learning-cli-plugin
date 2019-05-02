@@ -166,7 +166,7 @@ Delete an object from the repository:
 Syntax for different types of objects:
 ```
 ibmcloud ml delete training-definitions <training-definition-id>
-ibmcloud ml delete training-runs <training-run-id>
+ibmcloud ml delete training-runs <model-id>
 ibmcloud ml delete experiments <experiment-id>
 ibmcloud ml delete experiment-runs <experiment-id> <experiment-run-id>
 ibmcloud ml delete models <model-id>
